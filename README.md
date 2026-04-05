@@ -96,12 +96,10 @@ airflow-lab2/
 ├── dags/
 │   └── my_first_dag.py
 └── screenshots/
-├── 01_airflow_version.png
-├── 02_db_init.png
-├── 03_airflow_ui.png
-├── 04_dag_list.png
-├── 05_graph_view.png
-└── 06_results.png
+    └── dag_list.jpg
+    ├── graph_view.jpg
+    ├── result_1.jpg
+    └── result_2.jpg
 ```
 ---
 
